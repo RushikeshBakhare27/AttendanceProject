@@ -68,6 +68,8 @@ public class Client {
 		sessionFactory.close();
 	}
 	  
+	  System.out.println("Task1 add");
+	  
 	
 		
 	}
